@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PyProjects/PracticePython.org/.idea/PracticePython.org.iml" filepath="$PROJECT_DIR$/../PyProjects/PracticePython.org/.idea/PracticePython.org.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SoftUniRepo.iml" filepath="$PROJECT_DIR$/.idea/SoftUniRepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyProjects/SummerMadLibs/.idea/SummerMadLibs.iml" filepath="$PROJECT_DIR$/../PyProjects/SummerMadLibs/.idea/SummerMadLibs.iml" />
     </modules>
   </component>
 </project>
