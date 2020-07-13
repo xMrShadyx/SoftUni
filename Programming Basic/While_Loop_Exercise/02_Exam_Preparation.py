@@ -9,7 +9,7 @@ while line != "Enough":
     task_name = line
     grade = int(input())
     count_grades += 1
-    total_grades += 1
+    total_grades += grade
 
     if grade <= 4:
         current_count_bad_grades += 1
