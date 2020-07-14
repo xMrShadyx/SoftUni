@@ -15,6 +15,8 @@ if city_name == 'Bansko' or city_name == 'Borovets':
         price = 80
         if vip_owning == 'yes':
             price = price * 0.95
+    else:
+        is_invalid = True
 
 elif city_name == 'Varna' or city_name == 'Burgas':
     if extras == 'withBreakfast':
@@ -25,6 +27,8 @@ elif city_name == 'Varna' or city_name == 'Burgas':
         price = 100
         if vip_owning == 'yes':
             price = price * 0.93
+    else:
+        is_invalid = True
 else:
     is_invalid = True
 
