@@ -13,7 +13,7 @@ while word != "End of words":
 
     if word[0] in list_of_w:
         summ = summ * len(word)
-    elif word[0] not in list_of_w:
+    else:
         summ = math.floor(summ / len(word))
 
     if summ > max_sum:
