@@ -1,26 +1,22 @@
-import math
+user_name = input()
+command = input()
 
-word = input()
+points_max = 0
 
-list_of_w = ["a", "e", "i", "o", "u", "y", "A", "E", "I", "O", "U", "Y"]
-summ = 0
-max_sum = 0
-the_word = ""
+while command != 'Stop':
+    points = 0
+    name = user_name
 
-while word != "End of words":
-    for i in word:
-        summ += ord(i)
+    for x in name:
+        list_ord = str(ord(x))
+        if command in list_ord:
+            points += 10
+        else:
+            points += 2
 
-    if word[0] in list_of_w:
-        summ = summ * len(word)
-    elif word[0] not in list_of_w:
-        summ = math.floor(summ / len(word))
+        if points >= points_max:
+            points_max = points
+            player_max = user_name
+        player = input()
 
-    if summ > max_sum:
-        max_sum = summ
-        the_word = word
-
-    summ = 0
-    word = input()
-else:
-    print(f"The most powerful word is {the_word} - {max_sum}")
+print(points_max)
