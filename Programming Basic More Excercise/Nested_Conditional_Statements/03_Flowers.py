@@ -24,12 +24,13 @@ total_flowers_price = price_chrysanthemum + price_roses + price_tulips
 if is_holiday == 'Y':
     total_flowers_price += total_flowers_price * 0.15
 
-if amount_roses >= 10:
+if amount_roses >= 10 and season == 'Winter':
     total_flowers_price -= total_flowers_price * 0.10
-if amount_tulips >= 7:
+
+if amount_tulips >= 7 and season == 'Spring':
     total_flowers_price -= total_flowers_price * 0.05
 
 if total_flowers > 20:
     total_flowers_price -= total_flowers_price * 0.20
 
-print(total_flowers_price + 2)
+print(f"{total_flowers_price + 2:.2f}")
