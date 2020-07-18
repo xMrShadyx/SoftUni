@@ -1,22 +1,9 @@
-user_name = input()
-command = input()
+import sys
+text = ""
+while 1:
+   c = sys.stdin.read(1)
+   text = text + c
+   if c == '\n':
+       break
 
-points_max = 0
-
-while command != 'Stop':
-    points = 0
-    name = user_name
-
-    for x in name:
-        list_ord = str(ord(x))
-        if command in list_ord:
-            points += 10
-        else:
-            points += 2
-
-        if points >= points_max:
-            points_max = points
-            player_max = user_name
-        player = input()
-
-print(points_max)
+print("Input: %s" % text)
