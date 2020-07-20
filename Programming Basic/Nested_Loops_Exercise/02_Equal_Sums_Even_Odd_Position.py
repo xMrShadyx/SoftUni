@@ -1,16 +1,26 @@
-first_num = int(input())
-second_num = int(input())
+line = input()
+prime_sum = 0
+not_prime_sum = 0
 
-for i in range(first_num, second_num + 1):
-    num_as_string = str(i)
+while line != 'stop':
+    number = int(line)
 
-    odd_sum = 0
-    even_sum = 0
-    for index, symbol in enumerate(num_as_string):
-        if index % 2 == 0:
-            even_sum += int(symbol)
+    if number < 0:
+        print("Number is negative.")
+    else:
+        is_prime = False
+        counter = 0
+
+        for i in range(1, number + 1):
+
+            if number % i == 0:
+                counter += 1
+
+        if counter == 2 or number == 1:
+            prime_sum += number
         else:
-            odd_sum += int(symbol)
+            not_prime_sum += number
 
-    if odd_sum == even_sum:
-        print(num_as_string, end=" ")
+    line = input()
+print(f"Sum of all prime numbers is: {prime_sum}")
+print(f"Sum of all non prime numbers is: {not_prime_sum}")
