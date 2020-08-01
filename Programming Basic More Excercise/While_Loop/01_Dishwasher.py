@@ -1,43 +1,29 @@
-preparat = int(input())
-total_detergents = preparat * 750
+num_of_detergent = int(input())
+detergent_in_ml = num_of_detergent * 750
+dishes = 0
+pots = 0
+count_num = 0
+count_dishes = 0
+count_pots = 0
 
-command = input()
-total1 = 0
+line = input()
+while line != 'End':
+    count_num += 1
+    if count_num % 3 == 0:
+        pots = int(line)
+        count_pots += pots
+        detergent_in_ml -= pots * 15
 
-saved_tendjeri = 0
-saved_chinii = 0
-
-count = 0
-while command != 'End':
-    count += 1
-    chinii = 0
-    tendjeri = 0
-    total_tendjeri = 0
-    total_chinii = 0
-
-    washed_items = int(command)
-    if count % 3 == 0:
-        saved_tendjeri += washed_items
-        total_tendjeri += washed_items
-        tendjeri += 15
-        total_detergents -= total_tendjeri * tendjeri
     else:
-        chinii += 5
-        saved_chinii += washed_items
-        total_chinii += washed_items
-        total_detergents -= total_chinii * chinii
-
-    if total_detergents < 0:
+        dishes = int(line)
+        count_dishes += dishes
+        detergent_in_ml -= dishes * 5
+    if detergent_in_ml < 0:
+        print(f'Not enough detergent, {abs(detergent_in_ml)} ml. more necessary!')
         break
-    else:
-        command = input()
+    line = input()
 
-if total_detergents >= preparat:
-    diff = total_detergents - preparat
-    print(f"Detergent was enough!")
-    print(f"{saved_chinii} dishes and {saved_tendjeri} pots were washed.")
-    print(f"Leftover detergent {total_detergents} ml.")
-else:
-    print(f"Not enough detergent, {abs(total_detergents)} ml. more necessary!")
-
-
+if detergent_in_ml >= 0:
+    print('Detergent was enough!')
+    print(f'{count_dishes} dishes and {count_pots} pots were washed.')
+    print(f'Leftover detergent {detergent_in_ml} ml.')
