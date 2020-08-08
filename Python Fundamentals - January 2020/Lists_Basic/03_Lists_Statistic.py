@@ -1,15 +1,18 @@
-n = int(input())
+number_range = int(input())
 
-positives = []
-negatives = []
-
-for _ in range(n):
-    current_number = int(input())
-    if current_number >= 0:
-        positives.append(current_number)
+pos_list = []
+neg_list = []
+count_neg = 0
+for i in range(1, number_range + 1):
+    number_to_list = int(input())
+    if number_to_list >= 0:
+        pos_list.append(number_to_list)
     else:
-        negatives.append(current_number)
+        neg_list.append(number_to_list)
 
-print(positives)
-print(negatives)
-print(f"Count of positive: {len(positives)}, Sum of negatives {sum(negatives)}")
+len_pos = len(pos_list)
+count_neg = sum(neg_list)
+
+print(pos_list)
+print(neg_list)
+print(f' Count of positive: {len_pos}. Sum of negatives: {count_neg}')

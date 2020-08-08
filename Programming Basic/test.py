@@ -1,8 +1,16 @@
-try:
-    astr = 'Hello Bob'
-    istr = int(astr)
+number_range = int(input())
 
-except ValueError:
-    print('Ebati Kavala')  # <- istr = int(astr)
-else:
-    print(istr)  # <- istr = astr
+search_word = input()
+strings = []
+filtered_strings = []
+
+for _ in range(number_range):
+    string = input()
+    strings.append(string)
+
+for string in strings:
+    if search_word in string:
+        filtered_strings.append(string)
+
+print(strings)
+print(filtered_strings)

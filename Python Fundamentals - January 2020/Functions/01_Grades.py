@@ -1,35 +1,15 @@
-def is_fail(grade):
-    return 2.00 <= grade <= 2.99
+def get_grade_text(score):
+    if 2.0 <= score < 3:
+        return 'Fail'
+    if 3.0 <= score < 3.5:
+        return 'Poor'
+    if 4.0 <= score < 4.5:
+        return 'Good'
+    if 5.0 <= score < 5.5:
+        return 'Very good'
+    if 5.50 <= score < 6:
+        return 'Excellent'
 
 
-def is_poor(grade):
-    return 3.00 <= grade <= 3.49
-
-
-def is_good(grade):
-    return 3.50 <= grade <= 4.49
-
-
-def is_very_good(grade):
-    return 4.50 <= grade <= 5.49
-
-
-def is_excellent(grade):
-    return 5.50 <= grade <= 6
-
-
-def solve(grade):
-    grades = [
-        [is_fail, 'Fail'],
-        [is_poor, 'Poor'],
-        [is_good, 'Good'],
-        [is_very_good, 'Very Good'],
-        [is_excellent, 'Excellent'],
-    ]
-    for fn, result in grades:
-        if fn(grade):
-            return result
-
-
-grade = float(input())
-print(f'{solve(grade)}')
+score = float(input())
+print(get_grade_text(score))
