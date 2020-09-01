@@ -16,4 +16,3 @@ for i in range(amount_days):
             price += 1
             total_price += 1
     print(f"Day: {i + 1} - {price:.2f} leva")
-print(f"Total: {total_price:.2f} leva")
