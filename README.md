@@ -1,6 +1,6 @@
 ![](https://image.slidesharecdn.com/welcome-to-softuni-200114105705/95/welcome-to-softuni-software-university-1-638.jpg?cb=1578999711)
 
-Repository for SoftUni: 
+Repository for SoftUni
 ----
 Programming Basic - 06.2020
 https://softuni.bg/trainings/2971/programming-basics-with-python-june-2020/internal
