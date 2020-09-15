@@ -2,6 +2,9 @@
 
 Repository for SoftUni
 ----
+Programming Python Fundamentals - 09.2020
+https://softuni.bg/trainings/3132/python-fundamentals-september-2020/internal
+----
 Programming Basic - 06.2020
 https://softuni.bg/trainings/2971/programming-basics-with-python-june-2020/internal
 -----
