@@ -1,13 +1,12 @@
-# words = "AAAA"
-# hex = "".join([hex(ord(x)) for x in words]).replace("0x", "")
-# i = int(hex,16)
-# print(i)
-#
-
-
-words = "AAAA"
-
-for x in words:
-    hex1 = hex(ord(x)).replace("0x", "")
-    i = int(hex1, 16)
-    print(i)
+import urllib2  
+website='https://www.allyourmusic.com'  
+try:  
+    response = urllib2.urlopen(website)  
+    if response.code==200:  
+        print("site exists!")  
+    else:  
+        print("site doesn't exists!")  
+except urllib2.HTTPError:  
+    print(e.code)  
+except urllib2.URLError:  
+    print(e.args)

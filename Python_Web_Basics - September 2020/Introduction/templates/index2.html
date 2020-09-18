@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+</head>
+<body>
+    <h1>It Works mby? and its /2 page...</h1>
+<ul>
+    {% for user in object_list %}
+    <li>
+        {{ user.username }}
+    </li>
+    {% endfor %}
+</ul>
+</body>
+</html>
