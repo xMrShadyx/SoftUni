@@ -1,4 +1,4 @@
-n = int(input())
+n = 200
 combination_count = 0
 
 for x1 in range(0, n + 1):
