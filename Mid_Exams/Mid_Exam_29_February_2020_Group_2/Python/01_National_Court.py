@@ -10,4 +10,4 @@ while people_count > 0:
 	people_count -= all_people
 	if hours % 4 == 0:
 		hours += 1
-print(f"Time needed: {hours}h")
+print(f"Time needed: {hours}h.")
