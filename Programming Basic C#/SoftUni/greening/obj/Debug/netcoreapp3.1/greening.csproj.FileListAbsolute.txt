@@ -1,0 +1,12 @@
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\bin\Debug\netcoreapp3.1\greening.exe
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\bin\Debug\netcoreapp3.1\greening.deps.json
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\bin\Debug\netcoreapp3.1\greening.runtimeconfig.json
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\bin\Debug\netcoreapp3.1\greening.runtimeconfig.dev.json
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\bin\Debug\netcoreapp3.1\greening.dll
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\bin\Debug\netcoreapp3.1\greening.pdb
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\obj\Debug\netcoreapp3.1\greening.AssemblyInfoInputs.cache
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\obj\Debug\netcoreapp3.1\greening.AssemblyInfo.cs
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\obj\Debug\netcoreapp3.1\greening.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\obj\Debug\netcoreapp3.1\greening.dll
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\obj\Debug\netcoreapp3.1\greening.pdb
+E:\Coding\SoftUniRepo\Programming Basic C#\SoftUni\greening\obj\Debug\netcoreapp3.1\greening.genruntimeconfig.cache
