@@ -1,4 +1,6 @@
+import re
 text = input()
+#REG express > \b:.
 
 for i in range(len(text)):
     if text[i] == ":":
