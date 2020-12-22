@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\bin\Debug\net5.0\ski_tip_13.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\bin\Debug\net5.0\ski_tip_13.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\bin\Debug\net5.0\ski_tip_13.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\bin\Debug\net5.0\ski_tip_13.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\bin\Debug\net5.0\ski_tip_13.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\bin\Debug\net5.0\ref\ski_tip_13.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\bin\Debug\net5.0\ski_tip_13.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\obj\Debug\net5.0\ski_tip_13.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\obj\Debug\net5.0\ski_tip_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\obj\Debug\net5.0\ski_tip_13.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\obj\Debug\net5.0\ski_tip_13.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\obj\Debug\net5.0\ski_tip_13.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\obj\Debug\net5.0\ski_tip_13.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\obj\Debug\net5.0\ref\ski_tip_13.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\obj\Debug\net5.0\ski_tip_13.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\ski_tip_13\obj\Debug\net5.0\ski_tip_13.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\bin\Debug\net5.0\small_shop_05.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\bin\Debug\net5.0\small_shop_05.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\bin\Debug\net5.0\small_shop_05.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\bin\Debug\net5.0\small_shop_05.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\bin\Debug\net5.0\small_shop_05.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\bin\Debug\net5.0\ref\small_shop_05.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\bin\Debug\net5.0\small_shop_05.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\obj\Debug\net5.0\small_shop_05.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\obj\Debug\net5.0\small_shop_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\obj\Debug\net5.0\small_shop_05.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\obj\Debug\net5.0\small_shop_05.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\obj\Debug\net5.0\small_shop_05.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\obj\Debug\net5.0\small_shop_05.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\obj\Debug\net5.0\ref\small_shop_05.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\obj\Debug\net5.0\small_shop_05.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\small_shop_05\obj\Debug\net5.0\small_shop_05.genruntimeconfig.cache

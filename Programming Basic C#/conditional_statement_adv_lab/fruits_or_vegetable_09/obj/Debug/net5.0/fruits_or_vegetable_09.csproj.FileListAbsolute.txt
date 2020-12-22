@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\bin\Debug\net5.0\fruits_or_vegetable_09.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\bin\Debug\net5.0\fruits_or_vegetable_09.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\bin\Debug\net5.0\fruits_or_vegetable_09.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\bin\Debug\net5.0\fruits_or_vegetable_09.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\bin\Debug\net5.0\fruits_or_vegetable_09.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\bin\Debug\net5.0\ref\fruits_or_vegetable_09.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\bin\Debug\net5.0\fruits_or_vegetable_09.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\obj\Debug\net5.0\fruits_or_vegetable_09.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\obj\Debug\net5.0\fruits_or_vegetable_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\obj\Debug\net5.0\fruits_or_vegetable_09.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\obj\Debug\net5.0\fruits_or_vegetable_09.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\obj\Debug\net5.0\fruits_or_vegetable_09.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\obj\Debug\net5.0\fruits_or_vegetable_09.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\obj\Debug\net5.0\ref\fruits_or_vegetable_09.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\obj\Debug\net5.0\fruits_or_vegetable_09.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\fruits_or_vegetable_09\obj\Debug\net5.0\fruits_or_vegetable_09.genruntimeconfig.cache
