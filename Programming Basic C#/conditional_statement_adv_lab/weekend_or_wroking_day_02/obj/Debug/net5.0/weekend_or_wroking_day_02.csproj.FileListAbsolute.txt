@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\bin\Debug\net5.0\weekend_or_wroking_day_02.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\bin\Debug\net5.0\weekend_or_wroking_day_02.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\bin\Debug\net5.0\weekend_or_wroking_day_02.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\bin\Debug\net5.0\weekend_or_wroking_day_02.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\bin\Debug\net5.0\weekend_or_wroking_day_02.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\bin\Debug\net5.0\ref\weekend_or_wroking_day_02.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\bin\Debug\net5.0\weekend_or_wroking_day_02.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\obj\Debug\net5.0\weekend_or_wroking_day_02.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\obj\Debug\net5.0\weekend_or_wroking_day_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\obj\Debug\net5.0\weekend_or_wroking_day_02.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\obj\Debug\net5.0\weekend_or_wroking_day_02.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\obj\Debug\net5.0\weekend_or_wroking_day_02.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\obj\Debug\net5.0\weekend_or_wroking_day_02.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\obj\Debug\net5.0\ref\weekend_or_wroking_day_02.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\obj\Debug\net5.0\weekend_or_wroking_day_02.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\weekend_or_wroking_day_02\obj\Debug\net5.0\weekend_or_wroking_day_02.genruntimeconfig.cache

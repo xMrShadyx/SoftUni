@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\bin\Debug\net5.0\trade_commision_12.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\bin\Debug\net5.0\trade_commision_12.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\bin\Debug\net5.0\trade_commision_12.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\bin\Debug\net5.0\trade_commision_12.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\bin\Debug\net5.0\trade_commision_12.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\bin\Debug\net5.0\ref\trade_commision_12.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\bin\Debug\net5.0\trade_commision_12.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\obj\Debug\net5.0\trade_commision_12.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\obj\Debug\net5.0\trade_commision_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\obj\Debug\net5.0\trade_commision_12.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\obj\Debug\net5.0\trade_commision_12.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\obj\Debug\net5.0\trade_commision_12.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\obj\Debug\net5.0\trade_commision_12.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\obj\Debug\net5.0\ref\trade_commision_12.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\obj\Debug\net5.0\trade_commision_12.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\trade_commision_12\obj\Debug\net5.0\trade_commision_12.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "fruits_or_vegetable_09/1.0.0": {
+        "runtime": {
+          "fruits_or_vegetable_09.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fruits_or_vegetable_09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\bin\Debug\net5.0\invalid_number_10.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\bin\Debug\net5.0\invalid_number_10.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\bin\Debug\net5.0\invalid_number_10.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\bin\Debug\net5.0\invalid_number_10.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\bin\Debug\net5.0\invalid_number_10.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\bin\Debug\net5.0\ref\invalid_number_10.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\bin\Debug\net5.0\invalid_number_10.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\obj\Debug\net5.0\invalid_number_10.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\obj\Debug\net5.0\invalid_number_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\obj\Debug\net5.0\invalid_number_10.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\obj\Debug\net5.0\invalid_number_10.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\obj\Debug\net5.0\invalid_number_10.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\obj\Debug\net5.0\invalid_number_10.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\obj\Debug\net5.0\ref\invalid_number_10.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\obj\Debug\net5.0\invalid_number_10.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\invalid_number_10\obj\Debug\net5.0\invalid_number_10.genruntimeconfig.cache

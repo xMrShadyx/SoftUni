@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\bin\Debug\net5.0\cinema_ticket_08.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\bin\Debug\net5.0\cinema_ticket_08.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\bin\Debug\net5.0\cinema_ticket_08.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\bin\Debug\net5.0\cinema_ticket_08.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\bin\Debug\net5.0\cinema_ticket_08.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\bin\Debug\net5.0\ref\cinema_ticket_08.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\bin\Debug\net5.0\cinema_ticket_08.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\obj\Debug\net5.0\cinema_ticket_08.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\obj\Debug\net5.0\cinema_ticket_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\obj\Debug\net5.0\cinema_ticket_08.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\obj\Debug\net5.0\cinema_ticket_08.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\obj\Debug\net5.0\cinema_ticket_08.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\obj\Debug\net5.0\cinema_ticket_08.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\obj\Debug\net5.0\ref\cinema_ticket_08.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\obj\Debug\net5.0\cinema_ticket_08.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_lab\cinema_ticket_08\obj\Debug\net5.0\cinema_ticket_08.genruntimeconfig.cache
