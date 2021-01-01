@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sequence_2k_1_04/1.0.0": {
+        "runtime": {
+          "sequence_2k_1_04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sequence_2k_1_04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

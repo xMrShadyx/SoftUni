@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "operation_between_numbers_06/1.0.0": {
+        "runtime": {
+          "operation_between_numbers_06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operation_between_numbers_06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

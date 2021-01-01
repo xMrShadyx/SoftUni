@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\dared\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\dared\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_conditional_statement_adv_exercise.598153869.00" t="ExcludeRecursive" />
+    <e p="C:\Users\dared\RiderProjects\conditional_statement_adv_exercise" t="IncludeFlat">
+      <e p="cinema_01" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cinema_01.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="cinema_01.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="conditional_statement_adv_exercise.sln" t="IncludeFlat" />
+      <e p="fishing_boat_04" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="fishing_boat_04.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="fishing_boat_04.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="hotel_room_07" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="hotel_room_07.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="hotel_room_07.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="journey_05" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="journey_05.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="journey_05.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="new_house_03" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="new_house_03.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="new_house_03.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="on_time_for_exam_08" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="on_time_for_exam_08.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="on_time_for_exam_08.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="operation_between_numbers_06" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="operation_between_numbers_06.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="operation_between_numbers_06.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="summer_outfit_02" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="summer_outfit_02.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="summer_outfit_02.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\bin\Debug\net5.0\account_balance_05.exe
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\bin\Debug\net5.0\account_balance_05.deps.json
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\bin\Debug\net5.0\account_balance_05.runtimeconfig.json
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\bin\Debug\net5.0\account_balance_05.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\bin\Debug\net5.0\account_balance_05.dll
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\bin\Debug\net5.0\ref\account_balance_05.dll
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\bin\Debug\net5.0\account_balance_05.pdb
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\obj\Debug\net5.0\account_balance_05.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\obj\Debug\net5.0\account_balance_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\obj\Debug\net5.0\account_balance_05.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\obj\Debug\net5.0\account_balance_05.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\obj\Debug\net5.0\account_balance_05.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\obj\Debug\net5.0\account_balance_05.dll
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\obj\Debug\net5.0\ref\account_balance_05.dll
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\obj\Debug\net5.0\account_balance_05.pdb
+C:\Users\dared\RiderProjects\while_loops_lab\account_balance_05\obj\Debug\net5.0\account_balance_05.genruntimeconfig.cache

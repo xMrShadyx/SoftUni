@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "account_balance_05/1.0.0": {
+        "runtime": {
+          "account_balance_05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "account_balance_05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

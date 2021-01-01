@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\bin\Debug\net5.0\moving_09.exe
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\bin\Debug\net5.0\moving_09.deps.json
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\bin\Debug\net5.0\moving_09.runtimeconfig.json
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\bin\Debug\net5.0\moving_09.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\bin\Debug\net5.0\moving_09.dll
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\bin\Debug\net5.0\ref\moving_09.dll
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\bin\Debug\net5.0\moving_09.pdb
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\obj\Debug\net5.0\moving_09.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\obj\Debug\net5.0\moving_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\obj\Debug\net5.0\moving_09.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\obj\Debug\net5.0\moving_09.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\obj\Debug\net5.0\moving_09.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\obj\Debug\net5.0\moving_09.dll
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\obj\Debug\net5.0\ref\moving_09.dll
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\obj\Debug\net5.0\moving_09.pdb
+C:\Users\dared\RiderProjects\while_loops_lab\moving_09\obj\Debug\net5.0\moving_09.genruntimeconfig.cache

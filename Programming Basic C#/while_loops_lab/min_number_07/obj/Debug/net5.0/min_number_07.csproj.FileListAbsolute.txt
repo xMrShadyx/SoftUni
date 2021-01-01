@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\bin\Debug\net5.0\min_number_07.exe
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\bin\Debug\net5.0\min_number_07.deps.json
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\bin\Debug\net5.0\min_number_07.runtimeconfig.json
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\bin\Debug\net5.0\min_number_07.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\bin\Debug\net5.0\min_number_07.dll
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\bin\Debug\net5.0\ref\min_number_07.dll
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\bin\Debug\net5.0\min_number_07.pdb
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\obj\Debug\net5.0\min_number_07.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\obj\Debug\net5.0\min_number_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\obj\Debug\net5.0\min_number_07.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\obj\Debug\net5.0\min_number_07.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\obj\Debug\net5.0\min_number_07.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\obj\Debug\net5.0\min_number_07.dll
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\obj\Debug\net5.0\ref\min_number_07.dll
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\obj\Debug\net5.0\min_number_07.pdb
+C:\Users\dared\RiderProjects\while_loops_lab\min_number_07\obj\Debug\net5.0\min_number_07.genruntimeconfig.cache

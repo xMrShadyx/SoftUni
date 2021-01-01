@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\bin\Debug\net5.0\summer_outfit_02.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\bin\Debug\net5.0\summer_outfit_02.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\bin\Debug\net5.0\summer_outfit_02.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\bin\Debug\net5.0\summer_outfit_02.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\bin\Debug\net5.0\summer_outfit_02.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\bin\Debug\net5.0\ref\summer_outfit_02.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\bin\Debug\net5.0\summer_outfit_02.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\obj\Debug\net5.0\summer_outfit_02.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\obj\Debug\net5.0\summer_outfit_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\obj\Debug\net5.0\summer_outfit_02.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\obj\Debug\net5.0\summer_outfit_02.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\obj\Debug\net5.0\summer_outfit_02.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\obj\Debug\net5.0\summer_outfit_02.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\obj\Debug\net5.0\ref\summer_outfit_02.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\obj\Debug\net5.0\summer_outfit_02.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\summer_outfit_02\obj\Debug\net5.0\summer_outfit_02.genruntimeconfig.cache

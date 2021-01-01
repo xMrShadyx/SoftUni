@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\bin\Debug\net5.0\hotel_room_07.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\bin\Debug\net5.0\hotel_room_07.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\bin\Debug\net5.0\hotel_room_07.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\bin\Debug\net5.0\hotel_room_07.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\bin\Debug\net5.0\hotel_room_07.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\bin\Debug\net5.0\ref\hotel_room_07.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\bin\Debug\net5.0\hotel_room_07.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\obj\Debug\net5.0\hotel_room_07.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\obj\Debug\net5.0\hotel_room_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\obj\Debug\net5.0\hotel_room_07.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\obj\Debug\net5.0\hotel_room_07.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\obj\Debug\net5.0\hotel_room_07.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\obj\Debug\net5.0\hotel_room_07.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\obj\Debug\net5.0\ref\hotel_room_07.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\obj\Debug\net5.0\hotel_room_07.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\hotel_room_07\obj\Debug\net5.0\hotel_room_07.genruntimeconfig.cache

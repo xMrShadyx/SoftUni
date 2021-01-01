@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\bin\Debug\net5.0\new_house_03.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\bin\Debug\net5.0\new_house_03.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\bin\Debug\net5.0\new_house_03.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\bin\Debug\net5.0\new_house_03.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\bin\Debug\net5.0\new_house_03.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\bin\Debug\net5.0\ref\new_house_03.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\bin\Debug\net5.0\new_house_03.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\obj\Debug\net5.0\new_house_03.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\obj\Debug\net5.0\new_house_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\obj\Debug\net5.0\new_house_03.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\obj\Debug\net5.0\new_house_03.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\obj\Debug\net5.0\new_house_03.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\obj\Debug\net5.0\new_house_03.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\obj\Debug\net5.0\ref\new_house_03.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\obj\Debug\net5.0\new_house_03.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\new_house_03\obj\Debug\net5.0\new_house_03.genruntimeconfig.cache

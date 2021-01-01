@@ -1,0 +1,16 @@
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\bin\Debug\net5.0\fishing_boat_04.exe
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\bin\Debug\net5.0\fishing_boat_04.deps.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\bin\Debug\net5.0\fishing_boat_04.runtimeconfig.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\bin\Debug\net5.0\fishing_boat_04.runtimeconfig.dev.json
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\bin\Debug\net5.0\fishing_boat_04.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\bin\Debug\net5.0\ref\fishing_boat_04.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\bin\Debug\net5.0\fishing_boat_04.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\obj\Debug\net5.0\fishing_boat_04.csprojAssemblyReference.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\obj\Debug\net5.0\fishing_boat_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\obj\Debug\net5.0\fishing_boat_04.AssemblyInfoInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\obj\Debug\net5.0\fishing_boat_04.AssemblyInfo.cs
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\obj\Debug\net5.0\fishing_boat_04.csproj.CoreCompileInputs.cache
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\obj\Debug\net5.0\fishing_boat_04.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\obj\Debug\net5.0\ref\fishing_boat_04.dll
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\obj\Debug\net5.0\fishing_boat_04.pdb
+C:\Users\dared\RiderProjects\conditional_statement_adv_exercise\fishing_boat_04\obj\Debug\net5.0\fishing_boat_04.genruntimeconfig.cache
