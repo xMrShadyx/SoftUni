@@ -2,8 +2,7 @@
 
 Repository for SoftUni
 -----
-Python Advanced - January 2021
-https://softuni.bg/trainings/3219/python-advanced-january-2021
+[Python Advanced - January 2021](https://softuni.bg/trainings/3219/python-advanced-january-2021)
 ----
 Programming Python Fundamentals - 09.2020
 https://softuni.bg/trainings/3132/python-fundamentals-september-2020/internal
