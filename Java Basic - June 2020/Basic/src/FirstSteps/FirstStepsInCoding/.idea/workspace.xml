@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5aa00b3-dce1-4123-87a3-e157c1ae969c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Basic - June 2020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic - June 2020/META-INF/Java Basic - June 2020.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basic - June 2020/com/FirstStepsInCodingLab/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/FirstStepsInCodingLab/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/00.demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/00.demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/01_Ages.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/01_Ages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/02_Rounding.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/02_Rounding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/03_Division.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/03_Division.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/04_Vacation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/04_Vacation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/05_Leap_Year.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/05_Leap_Year.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/06_Print_and_Sum.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/06_Print_and_Sum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/07_Triangle_of_numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/07_Triangle_of_numbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/08_Multiplications_Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/08_Multiplications_Table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/09_Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/10_The_Pyramid_of_King_Djoser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.1_Basic_Syntax_Exercise/11_Bitcoin_Mining.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.2_Basic_Syntax_More_Exercise/01_Sort_Numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Java Script Fundamentals - May 2020/01.2_Basic_Syntax_More_Exercise/01_Sort_Numbers.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rRFmsZ77LEEMzbrDL8611fqB5g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Application.YardGreening">
+    <configuration name="ConcatinateData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcatinateData" />
+      <module name="FirstStepInCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InchesToCm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InchesToCm" />
+      <module name="FirstStepInCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PetStore" />
+      <module name="FirstStepInCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectsCreations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProjectsCreations" />
+      <module name="FirstStepInCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YardGreening" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YardGreening" />
+      <module name="FirstStepInCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.YardGreening" />
+        <item itemvalue="Application.PetStore" />
+        <item itemvalue="Application.ProjectsCreations" />
+        <item itemvalue="Application.ConcatinateData" />
+        <item itemvalue="Application.InchesToCm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5aa00b3-dce1-4123-87a3-e157c1ae969c" name="Default Changelist" comment="" />
+      <created>1618931159691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618931159691</updated>
+      <workItem from="1618931163382" duration="10847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
